@@ -1,0 +1,16 @@
+.dankMemes
+{
+ background:url(images/back.png);
+ height:100px;
+ width:100px;
+ display: block;
+ float:left;
+}
+
+.dankMemes  a {
+ display: none;
+}
+
+.dankMemes  a:hover {
+ display: block;
+}
